@@ -20,6 +20,6 @@ mv /root/index.php /usr/local/cpanel/base/frontend/paper_lantern/tg_wp_install
 mv /root/tg-wp-installer.tar.gz /usr/local/cpanel/base/frontend/paper_lantern/tg_wp_install
 
 # Install the plugin (which also places the png image in the proper location)
-/usr/local/cpanel/scripts/install_plugin /usr/local/cpanel/base/frontend/paper_lantern/tg_wp_install/tg_wp_install.tar.gz
+/usr/local/cpanel/scripts/install_plugin /usr/local/cpanel/base/frontend/paper_lantern/tg_wp_install/tg-wp-installer.tar.gz
 
 echo "Installation is complete!"
